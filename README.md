@@ -28,6 +28,7 @@ Learning :
  - C++
  - Python
  - Lua
+ - SQL
 
 # Contact
 
