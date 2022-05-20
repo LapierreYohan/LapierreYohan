@@ -31,8 +31,8 @@ Learning :
 
 # Contact
 
- - Mail : yohan.lapierre@etu.univ-lyon1.fr
- - Mail : lapierre.yohan.69@gmail.com
+ - Student Email : yohan.lapierre@etu.univ-lyon1.fr
+ - Private Email : lapierre.yohan.69@gmail.com
 
 # GitHub Stats
 
