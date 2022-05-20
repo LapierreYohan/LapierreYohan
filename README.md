@@ -36,7 +36,9 @@ Learning :
 
 # GitHub Stats
 
-<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=LapierreYohan&show_icons=true&theme=radical&count_private=true"></p>
-<p align="center">
+<p style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LapierreYohan&show_icons=true&theme=radical&count_private=true">
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapierreYohan&layout=compact&theme=vision-friendly-dark" alt=""/>
 </p>
