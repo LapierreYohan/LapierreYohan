@@ -1,16 +1,39 @@
-### Hi there 👋
+# About me
 
-<!--
-**LapierreYohan/LapierreYohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [LAPIERRE Yohan](https://github.com/LapierreYohan), I'am 19 year old and I'm a French developer passionate about IT. I learn a lot of things on my own and in my current training .I am in university bachelors of technology at the university institute of technology of Lyon 1. 
+# Project 
 
-Here are some ideas to get you started:
+```yaml
+Current projet :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Manage Faction :  Advanced Manage Discord Bot for your Guild or Faction.
+ - MusicBot : Advanced Music Discord bot.
+ 
+Learning :
+
+ - Forge : For Minecraft 1.7.10
+ - Spigot : For minecraft 1.12.2
+ - Discord.js V14 : For Discord Bot
+```
+
+# Languages already used
+
+ - HTML
+ - CSS
+ - PHP
+ - JavaScript
+ - Batch
+ - Java
+ - C
+ - C++
+ - Python
+ - Lua
+
+# Contact
+
+ - Mail : yohan.lapierre@etu.univ-lyon1.fr
+ - Mail : lapierre.yohan.69@gmail.com
+
+# GitHub Stats
+
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=LapierreYohan&show_icons=true&theme=radical&count_private=true"></p>
