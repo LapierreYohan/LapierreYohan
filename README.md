@@ -11,9 +11,9 @@ Current projet :
  
 Learning :
 
- - Forge : For Minecraft 1.7.10
- - Spigot : For Minecraft 1.12.2
- - Discord.js V14 : For Discord Bot
+ - Forge
+ - Spigot
+ - Discord.js V14
 ```
 
 # Languages already used
