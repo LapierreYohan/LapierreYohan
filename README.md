@@ -9,13 +9,17 @@ Hi, I'm [LAPIERRE Yohan](https://github.com/LapierreYohan), I'am 20 year old and
 ```yaml
 Current projet :
 
- - Manage Faction :  Advanced Manage Discord Bot for your Guild or Faction.
- - MusicBot : Advanced Music Discord bot.
+ - NeoTeams :  Advanced Manage Discord Bot for your Guild or Faction.
+ - Applications for Teams : Crossplatform application to change data from NeoTeams Database.
+ - NeoTeams API : An API to centralise all data to communicate with Flutter Application Crossplatform
  
 Learning :
 
- - Forge
- - Spigot
+ - Spring Boot (Java)
+ - OpenPDF (Java)
+ - RPGLE
+ - Flutter
+ - Kotlin
  - Discord.js V14
 ```
 
